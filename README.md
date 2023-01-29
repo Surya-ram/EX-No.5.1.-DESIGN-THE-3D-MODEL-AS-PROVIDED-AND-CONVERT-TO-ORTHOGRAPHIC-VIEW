@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![Ex_5.1 Drawing SURYA](https://user-images.githubusercontent.com/122000311/215312189-c747a0b6-c752-44b7-8881-dac99259f0a1.png)
 
 
 ## RESULT:
